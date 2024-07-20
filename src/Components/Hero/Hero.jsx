@@ -1,7 +1,7 @@
 import React from 'react'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 import './Hero.css'
-import vikram_dp from '../../assets/vikram_dp1.png'
+import vikram_dp from '../../assets/vikram_dp1.jpg'
 import vikram_cv from '../../assets/Vikram_Resume.pdf'
 
 function Hero() {
