@@ -31,9 +31,9 @@ function About() {
           <img src={theme_pattern} alt="theme_pattern" />
         </div>
         <div className="about-section">
-        <Tilt options={options} ><div className="about-left">
+        {/* <Tilt options={options} ><div className="about-left">
             <img src={vikram_about} alt="profile_img" />
-          </div></Tilt>
+          </div></Tilt> */}
           <div className="about-right">
             <div className="about-para">
               <p>Hi! <span className='gradiant'>I'm Vikram Gohel.</span>I'm from Ahmedbad.I completed my Graduation from Gujrat Univercity.I also done my <span className='gradiant'>Web Development</span> Course from Felix'Its in 2024</p>
