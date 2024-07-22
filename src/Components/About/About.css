@@ -35,6 +35,7 @@
     width: 20rem;
     border: 2px solid white;
     cursor: pointer;
+    display: none; /* remove display none for second profile pic */
 }
 
 .about-right {
